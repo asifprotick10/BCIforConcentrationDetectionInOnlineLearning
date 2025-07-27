@@ -4,7 +4,7 @@ The initial product file is given in this link: https://drive.google.com/file/d/
 The file is of exe extension and can be run on windows for real-time classification of attention into 2 main classes: attentive and sleepy (non-attentive). The distracted class is being worked on and will be updated when done. 
 The demonstration of the project is given in the link: https://youtu.be/LQ6b_kuXZO8
 
-video width="720" controls>
+<video width="720" height="270" controls>
   <source src="DemoAttention.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
