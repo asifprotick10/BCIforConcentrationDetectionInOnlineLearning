@@ -6,7 +6,7 @@ The demonstration of the project is given in the link: https://youtu.be/LQ6b_kuX
 [![Demo](DemoAttentionGIF.gif)]([DemoAttention.mp4](https://youtu.be/dnkO_qrWpBk))
 
 
-#Running the app
+# Running the app
 Download the repository and go to the run folder.
 run.exe is to be clicked to open the app. 
 Rquirements: A FocusCalm Headband
